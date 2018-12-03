@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Background
+  - Ground
+  - Flag
+  - Star
+  - Border
   layers:
   - Default
   - TransparentFX
@@ -47,6 +51,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 2147616791
+    locked: 0
+  - name: Border
+    uniqueID: 2441702981
     locked: 0
   - name: Player
     uniqueID: 2195828463
